@@ -17,5 +17,10 @@ Analista en Negocios Digitales (Universidad ORT Uruguay), con experiencia en Pre
 | [prestamos-regresion-r](https://github.com/rominacor21/prestamos-regresion-r) | Predicción del monto de préstamos en R |
 | [dashboard-marketing-digital](https://github.com/rominacor21/dashboard-marketing-digital) | Dashboard de marketing en Looker Studio |
 | [cafe-del-sur-ecommerce](https://github.com/rominacor21/cafe-del-sur-ecommerce) | Tienda online de café de especialidad |
+| [ai-cost-navigator](https://github.com/rominacor21/ai-cost-navigator) | Calculadora de costos de modelos de IA |
+| [rpa-calidad-datos-productos](https://github.com/rominacor21/rpa-calidad-datos-productos) | Control de calidad de datos de productos con RPA |
+| [galeria-nativa-ecommerce](https://github.com/rominacor21/galeria-nativa-ecommerce) | Tienda online de arte uruguayo |
+| [veterinarias-montevideo-investigacion](https://github.com/rominacor21/veterinarias-montevideo-investigacion) | Herramientas de gestión en veterinarias de Montevideo |
+| [costos-ia-investigacion](https://github.com/rominacor21/costos-ia-investigacion) | Hacia dónde va el precio de la IA |
 
 [LinkedIn](https://www.linkedin.com/in/rominacor/)
